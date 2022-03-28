@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I am Swapnil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/swapnil_v_patil/">
   <img align="left" alt="Swapnil's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -16,9 +16,7 @@
 
 <br />
 
-hi, i'm [Swapnil Patil](https://swapnilpatil.me/), a passionate self-taught full stack web developer and a freelance software engineer from india work at LTI as a senior software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+Hi, i'm [Swapnil Patil](https://swapnilpatil.me/), Senior Software Engineer [MERN Stack] with experience in developing robust, highly scalable, multi-tier applications. Strong understanding of all phases of Software Development Life Cycle with concentration on coding, design, development and implementation of various applications. Good knowledge and skill of creating new software & systems, designing, analysis, testing and coding for modules while structuring customized solutions to meet client specific needs. Skilled software craftsman with expertise in React.js, JavaScript, Node.js, MongoDB, Html5, CSS3, Bootstrap, Agile and other programming languages. Excellent ability to grasp emerging technologies and interact smoothly and effectively with peers, senior management and clients
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
