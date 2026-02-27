@@ -1,52 +1,99 @@
-<img src="https://i.ibb.co/n0HpsMK/Purple-and-Pink-Geometric-Technology-Landscape-Single-Side-Business-Card.gif" alt="Purple-and-Pink-Geometric-Technology-Landscape-Single-Side-Business-Card" border="0" height="400vh" width="100%">
+<p align="center">
+  <!-- Hero Banner (Primary – Style 3) -->
+  <img src="https://images.unsplash.com/photo-1527689368864-3a821dbccc34?auto=format&fit=crop&q=80&w=1600" alt="Tech Banner" />
+</p>
 
+<!-- Alternative Hero Banner (Style 4 - Dark Mode Tech) -->
+<!--
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1551033541-2075d8363c78?auto=format&fit=crop&q=80&w=1600" alt="Dark Tech Banner" />
+</p>
+-->
 
-### Hi, I am Swapnil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/swapnil_v_patil/">
-  <img align="left" alt="Swapnil's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/swap#7423">
-  <img align="left" alt="Swapnil's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/iamswapnilpatil">
-  <img align="left" alt="Swapnil Patil | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/swapnil-v-patil/">
-  <img align="left" alt="Swapnil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h1 align="center">👋 Hi, I'm Swapnil Patil</h1>
+<h3 align="center">Senior Frontend Engineer (React.js) • Performance Optimization • AI Systems Builder</h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=swapnilpatil94.swapnilpatil94)
+<p align="center">
+  <a href="https://github.com/swapnilpatil94">
+    <img src="https://komarev.com/ghpvc/?username=swapnilpatil94&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  </a>
+</p>
 
-<br />
+---
 
-Hi, i'm [Swapnil Patil](https://swapnilpatil.me/), Senior Software Engineer [MERN Stack] with experience in developing robust, highly scalable, multi-tier applications. Strong understanding of all phases of Software Development Life Cycle with concentration on coding, design, development and implementation of various applications. Good knowledge and skill of creating new software & systems, designing, analysis, testing and coding for modules while structuring customized solutions to meet client specific needs. Skilled software craftsman with expertise in React.js, JavaScript, Node.js, MongoDB, Html5, CSS3, Bootstrap, Agile and other programming languages. Excellent ability to grasp emerging technologies and interact smoothly and effectively with peers, senior management and clients
+## 👨‍💻 Profile Avatar
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2023/03/09/05/22/ai-generated-7838373_1280.png" height="160" alt="Avatar" />
+</p>
 
+---
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:swapnilp576p@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+## 🚀 About Me
 
-**languages and tools:**  
+I'm a **Senior Frontend Engineer (ReactJS)** with **7+ years** experience building **production-grade, high-performance web applications** for enterprise scale.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+- ⚡ Expertise in **React, TypeScript, SSR (Next.js / OneApp v6)**  
+- 📈 Performance-focused → Improved Lighthouse scores (FCP/LCP) across complex modules  
+- 🔐 Strong in: Architecture, feature flags, CI/CD, SonarQube integrations  
+- 🤖 Currently building **Tech-in-Min** → AI-powered cinematic video engine  
+- 🔬 Passion for **AI workflows, voice cloning, auto-video generation**
 
- 
+---
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+## 🏆 Tech Expertise
 
-<a href="https://www.buymeacoffee.com/swapnilpatil" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="150" ></a>
- 
+### **Frontend**
+React.js, Next.js (SSR), Redux, Zustand, Context API, TailwindCSS, Styled Components
 
+### **Backend**
+Node.js, Express.js
 
-📈 my github stats
+### **DevOps**
+GitHub Actions, SonarQube CI Gate, Docker, Vercel, Enterprise pipelines
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=swapnilpatil94&show_icons=true&theme=gotham" alt="swapnilpatil94" />
+### **AI / Media Tools**
+Claude Sonnet, GPT-5, SDXL, CosyVoice 2.0, RVC, Video Agents (Auto-Shorts/Fireship Style)
 
+---
 
+## 🔥 Featured Projects
 
+### **🎬 Tech-in-Min (AI Cinematic Video Engine)**
+- Auto-generates videos like Fireship / ByteByteGo  
+- Claude Sonnet + GPT-5 pipeline  
+- Automatic script → voice → visuals → edit → render  
+
+### **⚛ High-Performance React Engineering**
+- FHR/THC multi-market benefits module (Amex)  
+- SSR Search using OneApp v6 (Improved LCP from 76 → 86)  
+- Checkout payment module optimization  
+
+### **🎧 Voice Cloning Studio**
+- Hindi/Marathi cloning  
+- CosyVoice pipelines  
+- Fast generation & deployment ready  
+
+---
+
+## 🛠️ Tech Stack (Visual)
+
+```yaml
+Frontend:
+  - React.js
+  - Next.js (SSR)
+  - Redux, Zustand
+  - TailwindCSS
+
+Backend:
+  - Node.js, Express.js
+
+Cloud/DevOps:
+  - GitHub Actions
+  - SonarQube
+  - Docker, Vercel
+
+AI/Media:
+  - Claude Sonnet
+  - GPT-5
+  - SDXL
+  - CosyVoice
